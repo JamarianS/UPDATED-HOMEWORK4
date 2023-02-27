@@ -1,3 +1,11 @@
+/**
+ * class: StudentGrades
+ * @author: ITEC 2140 students
+ * @date: February 27, 2023
+ * @version: 1.0
+ * @course: ITEC 2140 - 05 Spring 2023
+ * description:  program that prompts the user for student grades, calculates and displays the average grade in the class.
+ */
 import java.util.Scanner;
 public class StudentGrades {
     public static void main(String[]arg){
